@@ -1,0 +1,5 @@
+2024/02/20-23:49:29.912 300c Creating DB C:\Users\Welcome\New workspace\WalmartTesting\target\chrome_1708453169166\Default\Local Storage\leveldb since it was missing.
+2024/02/20-23:49:30.309 300c Reusing MANIFEST C:\Users\Welcome\New workspace\WalmartTesting\target\chrome_1708453169166\Default\Local Storage\leveldb/MANIFEST-000001
+2024/02/20-23:50:02.319 43e0 Level-0 table #5: started
+2024/02/20-23:50:02.336 43e0 Level-0 table #5: 187997 bytes OK
+2024/02/20-23:50:02.341 43e0 Delete type=0 #3
